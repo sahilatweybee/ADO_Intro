@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: ADO_Dataset, Configuration: Debug Any CPU ------
+1>  ADO_Dataset -> D:\ASP.NET_Course\ADO.NET_Intro\ADO_Web\DATASET\ADO_Dataset\ADO_Dataset\bin\ADO_Dataset.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

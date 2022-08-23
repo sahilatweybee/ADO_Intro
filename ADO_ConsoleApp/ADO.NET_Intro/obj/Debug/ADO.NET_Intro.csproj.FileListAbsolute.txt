@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\obj\Debug\ADO.NET_Intro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\obj\Debug\ADO.NET_Intro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\bin\Debug\ADO.NET_Intro.exe.config
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\bin\Debug\ADO.NET_Intro.exe
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\bin\Debug\ADO.NET_Intro.pdb
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\obj\Debug\ADO.NET_Intro.exe
+C:\Users\ADMIN\source\repos\ADO.NET_Intro\ADO.NET_Intro\obj\Debug\ADO.NET_Intro.pdb

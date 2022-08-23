@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_DataTable_Intro", "ADO_DataTable_Intro\ADO_DataTable_Intro.csproj", "{27951BDA-EF1C-4B6D-A311-6AB22BDB5B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27951BDA-EF1C-4B6D-A311-6AB22BDB5B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27951BDA-EF1C-4B6D-A311-6AB22BDB5B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27951BDA-EF1C-4B6D-A311-6AB22BDB5B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27951BDA-EF1C-4B6D-A311-6AB22BDB5B74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7BA384-D21A-4260-8A9F-F7BF525BBB4B}
+	EndGlobalSection
+EndGlobal
